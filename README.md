@@ -1,1 +1,2 @@
-# commenttocode
+# GoogleAi4code
+This project is the kaggle competition based on NPL and large language Model, During my internship , this project is given to me , where i use pretrained  model BERT as main model of this project ,in this project early the cell id the provided and corresponded  markdown and code related to that  markdown is also provided there. I have to implement a model which can predict the code over the given Markown.
